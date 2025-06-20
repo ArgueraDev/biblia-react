@@ -1,7 +1,3 @@
-### `npm start`
-
-### `npm run build`
-
 # 📖 Biblia Presenter
 
 Una aplicación web desarrollada en **React** con **Socket.IO** para proyectar en tiempo real textos bíblicos en **OBS Studio**. Diseñada especialmente para transmisiones en vivo, servicios cristianos y reuniones donde se desea mostrar versículos de manera profesional y sincronizada.
@@ -32,8 +28,8 @@ Una aplicación web desarrollada en **React** con **Socket.IO** para proyectar e
 1. **Clona este repositorio:**
 
    ```bash
-   git clone https://github.com/ArgueraDev/biblia-presenter.git
-   cd biblia-presenter
+   git clone https://github.com/ArgueraDev/biblia-react.git
+   cd biblia-react
    ```
 
 2. **Instala dependencias:**
